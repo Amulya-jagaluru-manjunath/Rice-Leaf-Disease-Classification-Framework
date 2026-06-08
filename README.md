@@ -7,6 +7,8 @@ Kaggle: https://www.kaggle.com/code/amulyajm1/fork-of-notebook01
 
 Dataset: https://www.kaggle.com/competitions/paddy-disease-classification/data
 
+(due to larger file size, i couldnot upload the Models here. i will attach it with document professor)
+
 ## Project Overview
 
 This project develops an automated rice leaf disease classification system using Deep Learning techniques. The objective is to identify and classify rice plant diseases from leaf images using Convolutional Neural Networks (CNNs) and Transfer Learning models.
