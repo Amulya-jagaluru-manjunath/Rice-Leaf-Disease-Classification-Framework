@@ -1,7 +1,6 @@
 # Rice Leaf Disease Classification Framework
 
 # Machine Learning Coursework - Phase II:
-
 # Quick Links:
 
 Kaggle: https://www.kaggle.com/code/amulyajm1/fork-of-notebook01
