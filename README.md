@@ -125,7 +125,7 @@ Evaluation metrics include:
 ```text
 Rice-Leaf-Disease-Classification/
 │
-├── rice_leaf_disease_classification.ipynb
+├── Rice-Leaf-Disease-Classification.ipynb
 │
 ├── outputs/
 │   ├── figures/
