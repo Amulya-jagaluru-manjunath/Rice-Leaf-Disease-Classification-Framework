@@ -125,8 +125,7 @@ Evaluation metrics include:
 ```text
 Rice-Leaf-Disease-Classification/
 │
-├── notebooks/
-│   └── rice_leaf_disease_classification.ipynb
+├── rice_leaf_disease_classification.ipynb
 │
 ├── outputs/
 │   ├── figures/
@@ -158,6 +157,16 @@ Rice-Leaf-Disease-Classification/
 ---
 
 ## Technologies Used
+
+- Python
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV
+- Scikit-learn
+- Jupyter Notebook
+  
 
 ### Programming Language
 
@@ -202,13 +211,19 @@ The performance comparison table will be updated after model training.
 
 | Model | Accuracy |
 |---------|---------|
-| Custom CNN | To Be Updated |
-| EfficientNetB0 | To Be Updated |
-| MobileNetV2 | To Be Updated |
+| Custom CNN | 75.70 % |
+| EfficientNetB0 | 16.91 % |
 
 ---
 
 ## Outputs Generated
+
+- model predictions
+- trained model results
+- evaluation metrics
+- sample outputs (images, plots, reports)
+- final exported files
+  
 
 ### Figures
 
@@ -226,6 +241,12 @@ The performance comparison table will be updated after model training.
 
 ---
 
+### Discussion Section:
+
+The custom CNN achieved a test accuracy of 75.70%, substantially outperforming the EfficientNetB0 implementation (16.91%). The poor performance of EfficientNetB0 is likely attributable to transfer-learning configuration limitations, preprocessing differences, or the inability to utilize pretrained weights during experimentation. Consequently, the custom CNN was selected as the final model for this study.
+
+---
+
 ## Future Enhancements
 
 - Grad-CAM Visualization
@@ -236,12 +257,10 @@ The performance comparison table will be updated after model training.
 
 ---
 
-## Reproducibility
-
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Rice-Leaf-Disease-Classification.git
+git clone https://github.com/Amulya-jagaluru-manjunath/Rice-Leaf-Disease-Classification-Framework.git
 cd Rice-Leaf-Disease-Classification
 ```
 
