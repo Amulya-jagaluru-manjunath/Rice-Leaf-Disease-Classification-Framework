@@ -1,4 +1,12 @@
-# Rice Leaf Disease Classification Using Deep Learning
+# Rice Leaf Disease Classification Framework
+
+# Machine Learning Coursework - Phase II:
+
+# Quick Links:
+
+Kaggle: https://www.kaggle.com/code/amulyajm1/fork-of-notebook01
+
+Dataset: https://www.kaggle.com/competitions/paddy-disease-classification/data
 
 ## Project Overview
 
